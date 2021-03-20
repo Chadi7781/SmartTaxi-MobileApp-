@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "577310594093",
+    "firebase_url": "https://deltachat-37d2e.firebaseio.com",
+    "project_id": "deltachat-37d2e",
+    "storage_bucket": "deltachat-37d2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577310594093:android:78305c6aa8512d56",
+        "android_client_info": {
+          "package_name": "com.example.deltachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577310594093-6qgsl5taql848qrvi80hif11qfr36ehm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deltachat",
+            "certificate_hash": "df32c91093d70b0be484cb7e9a6b4f3997b8618e"
+          }
+        },
+        {
+          "client_id": "577310594093-3v8ba4sj2cqsqf3d5695ecqj2q3bprr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_SG9mvdviSMjyh6VhoWDPWir2SnDsYBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577310594093-3v8ba4sj2cqsqf3d5695ecqj2q3bprr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577310594093:android:238bea5f6e90228f1454a4",
+        "android_client_info": {
+          "package_name": "dell_pc.example.com.smarttaxidrivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577310594093-6qt6h1dl7svumibjsi2m5rpoqepiq01q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dell_pc.example.com.smarttaxidrivers",
+            "certificate_hash": "923e07f626ea696151ebcd5f1509f31b792cd522"
+          }
+        },
+        {
+          "client_id": "577310594093-3v8ba4sj2cqsqf3d5695ecqj2q3bprr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_SG9mvdviSMjyh6VhoWDPWir2SnDsYBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577310594093-3v8ba4sj2cqsqf3d5695ecqj2q3bprr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577310594093:android:b2cc6cfc9ba6953d1454a4",
+        "android_client_info": {
+          "package_name": "dell_pc.example.com.smarttaxiriders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577310594093-33t4vl44vhv93u1if800ifqsnfkvh585.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dell_pc.example.com.smarttaxiriders",
+            "certificate_hash": "923e07f626ea696151ebcd5f1509f31b792cd522"
+          }
+        },
+        {
+          "client_id": "577310594093-3v8ba4sj2cqsqf3d5695ecqj2q3bprr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_SG9mvdviSMjyh6VhoWDPWir2SnDsYBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577310594093-3v8ba4sj2cqsqf3d5695ecqj2q3bprr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

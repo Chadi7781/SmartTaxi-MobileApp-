@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SmartTaxi</string>
+    <string name="button_signIn">Sing In</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_firstName">First name</string>
+    <string name="hint_lastName">Last name</string>
+    <string name="hint_phoneNumber">Phone number</string>
+    <string name="hint_address">Address</string>
+    <string name="title_activity_forgot_password">Forgot Password</string>
+    <string name="button_dontHaveAccount">Do not have an account yet?</string>
+    <string name="button_signUp">REGISTER</string>
+    <string name="lang_dialog_title">Change Language</string>
+    <string name="button_haveAccount">Already have an account?</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyAp6GAl6-otkf9aoccST2jYvjIO2f0H8rE</string>
+    <string name="title_activity_driver_tracking">Map</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SmartTaxiRider</string>
+    <string name="button_signIn">Sing In</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_firstName">First name</string>
+    <string name="hint_lastName">Last name</string>
+    <string name="hint_phoneNumber">Phone number</string>
+    <string name="hint_address">Address</string>
+    <string name="title_activity_forgot_password">Forgot Password</string>
+    <string name="button_dontHaveAccount">Do not have an account yet?</string>
+    <string name="button_signUp">REGISTER</string>
+    <string name="lang_dialog_title">Change Language</string>
+    <string name="button_haveAccount">Already have an account?</string>
+    <string name="title_activity_welcome">Map</string>
+    <!--<string name="google_direction_api">AIzaSyAsw2vxPG6aRGadVqiYNSBOPdjmQZ1y0LI-->
+
+    <!--</string>-->
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
